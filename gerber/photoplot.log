@@ -1,0 +1,603 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : MACHLORA_02_03Jul25_02.brd                    )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Wed Mar 25 15:54:42 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  NO
+    SUPPRESS-TRAIL-ZEROES YES
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/hungt/Downloads/Compressed/LoRa-based Monitoring System Project/gerber/loraTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  YES
+  Draw holes only                     NO
+
+    WARNING: Film contains objects with associated DRCs (6).
+           In the design editor view this film and enable visibility for the
+           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20290                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.55880                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.00800                                  DARK 
+  CIRCLE     1.01600                                  DARK 
+  CIRCLE     1.21800                                  DARK 
+  CIRCLE     1.22200                                  DARK 
+  CIRCLE     1.37000                                  DARK 
+  CIRCLE     1.60500                                  DARK 
+  CIRCLE     1.72720                                  DARK 
+  CIRCLE     1.95000                                  DARK 
+  CIRCLE     3.17500                                  DARK 
+  SQUARE     1.21800                     0.000 NO     DARK 
+  SQUARE     1.22200                     0.000 NO     DARK 
+  SQUARE     1.37000                     0.000 NO     DARK 
+  SQUARE     1.60500                     0.000 NO     DARK 
+  SQUARE     1.95000                     0.000 NO     DARK 
+  SQUARE     3.59990                     0.000 NO     DARK 
+  RECTANGLE  0.60000     x 0.60000      90.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  0.86360     x 1.70180       0.000 NO     DARK 
+  RECTANGLE  0.86360     x 1.70180      90.000 NO     DARK 
+  RECTANGLE  0.92000     x 0.97000       0.000 NO     DARK 
+  RECTANGLE  0.92000     x 0.97000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.42000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.42000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 3.00000       0.000 NO     DARK 
+  RECTANGLE  1.11760     x 0.55880      90.000 NO     DARK 
+  RECTANGLE  1.15000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  1.27000     x 0.63500       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 1.50000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 1.60000       0.000 NO     DARK 
+  RECTANGLE  1.50000     x 1.60000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 2.10000      90.000 NO     DARK 
+  RECTANGLE  1.95540     x 0.42080      90.000 NO     DARK 
+  RECTANGLE  2.25000     x 3.18000      90.000 NO     DARK 
+  RECTANGLE  2.54000     x 3.81000      90.000 NO     DARK 
+  RECTANGLE  2.60000     x 1.10000       0.000 NO     DARK 
+  RECTANGLE  2.80000     x 1.10000       0.000 NO     DARK 
+  RECTANGLE  2.89560     x 5.41020       0.000 NO     DARK 
+  RECTANGLE  3.00000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  3.25000     x 3.25000      90.000 NO     DARK 
+  RECTANGLE  3.40000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  4.00000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  4.00000     x 2.00000      90.000 NO     DARK 
+  RECTANGLE  8.60000     x 10.70000      0.000 NO     DARK 
+  PAD SHAPE  PS_R94_102_D200             0.000 NO     DARK 
+  PAD SHAPE  PS_R98_172_D200            90.000 NO     DARK 
+  PAD SHAPE  PS_R94_102_D200            90.000 NO     DARK 
+  PAD SHAPE  PS_R84_32_D250             90.000 NO     DARK 
+  PAD SHAPE  PS_R32_84_D250             90.000 NO     DARK 
+  PAD SHAPE  PS_R94_102_D200           180.000 NO     DARK 
+  PAD SHAPE  PS_R215_148_D250          180.000 NO     DARK 
+  PAD SHAPE  PS_R94_102_D200           270.000 NO     DARK 
+  PAD SHAPE  PS_R98_172_D200           270.000 NO     DARK 
+
+     loraTOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/hungt/Downloads/Compressed/LoRa-based Monitoring System Project/gerber/loraBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  YES
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.55880                                  DARK 
+  CIRCLE     1.00800                                  DARK 
+  CIRCLE     1.01600                                  DARK 
+  CIRCLE     1.21800                                  DARK 
+  CIRCLE     1.22200                                  DARK 
+  CIRCLE     1.37000                                  DARK 
+  CIRCLE     1.60500                                  DARK 
+  CIRCLE     1.72720                                  DARK 
+  CIRCLE     1.95000                                  DARK 
+  CIRCLE     3.17500                                  DARK 
+  SQUARE     1.21800                     0.000 NO     DARK 
+  SQUARE     1.22200                     0.000 NO     DARK 
+  SQUARE     1.37000                     0.000 NO     DARK 
+  SQUARE     1.60500                     0.000 NO     DARK 
+  SQUARE     1.95000                     0.000 NO     DARK 
+  RECTANGLE  2.54000     x 3.81000      90.000 NO     DARK 
+
+     loraBOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < TOP_SLK >
+     TO FILE < C:/Users/hungt/Downloads/Compressed/LoRa-based Monitoring System Project/gerber/loraTOP_SLK.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (40.5150 9.8900)
+           ... using undefined line width of 0.1270
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1270
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12500                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+
+     loraTOP_SLK created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOT_SLK >
+     TO FILE < C:/Users/hungt/Downloads/Compressed/LoRa-based Monitoring System Project/gerber/loraBOT_SLK.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12500                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+
+     loraBOT_SLK created.
+
+
+================================================================
+     PROCESSING FILM < TOP_MSK >
+     TO FILE < C:/Users/hungt/Downloads/Compressed/LoRa-based Monitoring System Project/gerber/loraTOP_MSK.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.20800                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.41800                                  DARK 
+  CIRCLE     1.42200                                  DARK 
+  CIRCLE     1.57000                                  DARK 
+  CIRCLE     1.72720                                  DARK 
+  CIRCLE     1.80500                                  DARK 
+  CIRCLE     2.15000                                  DARK 
+  SQUARE     1.41800                     0.000 NO     DARK 
+  SQUARE     1.42200                     0.000 NO     DARK 
+  SQUARE     1.57000                     0.000 NO     DARK 
+  SQUARE     1.80500                     0.000 NO     DARK 
+  SQUARE     2.15000                     0.000 NO     DARK 
+  SQUARE     3.70150                     0.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  0.86360     x 1.70180       0.000 NO     DARK 
+  RECTANGLE  0.86360     x 1.70180      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  1.10160     x 3.10160       0.000 NO     DARK 
+  RECTANGLE  1.12000     x 1.17000       0.000 NO     DARK 
+  RECTANGLE  1.12000     x 1.17000      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.62000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.62000      90.000 NO     DARK 
+  RECTANGLE  1.31760     x 0.75880      90.000 NO     DARK 
+  RECTANGLE  1.35000     x 1.20000       0.000 NO     DARK 
+  RECTANGLE  1.39700     x 0.76200       0.000 NO     DARK 
+  RECTANGLE  1.50000     x 1.70000       0.000 NO     DARK 
+  RECTANGLE  1.50000     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 2.10000      90.000 NO     DARK 
+  RECTANGLE  1.70000     x 1.80000       0.000 NO     DARK 
+  RECTANGLE  1.70000     x 1.80000      90.000 NO     DARK 
+  RECTANGLE  2.15540     x 0.62080      90.000 NO     DARK 
+  RECTANGLE  2.45000     x 3.38000      90.000 NO     DARK 
+  RECTANGLE  2.66700     x 3.93700      90.000 NO     DARK 
+  RECTANGLE  2.80000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  3.00000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  3.09560     x 5.61020       0.000 NO     DARK 
+  RECTANGLE  3.10160     x 1.10160       0.000 NO     DARK 
+  RECTANGLE  3.45000     x 3.45000      90.000 NO     DARK 
+  RECTANGLE  3.54000     x 1.14000       0.000 NO     DARK 
+  RECTANGLE  4.20000     x 2.20000       0.000 NO     DARK 
+  RECTANGLE  4.20000     x 2.20000      90.000 NO     DARK 
+  RECTANGLE  8.74000     x 10.84000      0.000 NO     DARK 
+  PAD SHAPE  PS_R94_102_D200             0.000 NO     DARK 
+  PAD SHAPE  PS_R98_172_D200            90.000 NO     DARK 
+  PAD SHAPE  PS_R32_84_D250             90.000 NO     DARK 
+  PAD SHAPE  PS_R84_32_D250             90.000 NO     DARK 
+  PAD SHAPE  PS_R94_102_D200            90.000 NO     DARK 
+  PAD SHAPE  PS_R215_148_D250          180.000 NO     DARK 
+  PAD SHAPE  PS_R94_102_D200           180.000 NO     DARK 
+  PAD SHAPE  PS_R94_102_D200           270.000 NO     DARK 
+  PAD SHAPE  PS_R98_172_D200           270.000 NO     DARK 
+
+     loraTOP_MSK created.
+
+
+================================================================
+     PROCESSING FILM < BOT_MSK >
+     TO FILE < C:/Users/hungt/Downloads/Compressed/LoRa-based Monitoring System Project/gerber/loraBOT_MSK.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.20800                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.41800                                  DARK 
+  CIRCLE     1.42200                                  DARK 
+  CIRCLE     1.57000                                  DARK 
+  CIRCLE     1.72720                                  DARK 
+  CIRCLE     1.80500                                  DARK 
+  CIRCLE     2.15000                                  DARK 
+  SQUARE     1.41800                     0.000 NO     DARK 
+  SQUARE     1.42200                     0.000 NO     DARK 
+  SQUARE     1.57000                     0.000 NO     DARK 
+  SQUARE     1.80500                     0.000 NO     DARK 
+  SQUARE     2.15000                     0.000 NO     DARK 
+  RECTANGLE  2.66700     x 3.93700      90.000 NO     DARK 
+
+     loraBOT_MSK created.
+
+
+================================================================
+     PROCESSING FILM < TOP_PST >
+     TO FILE < C:/Users/hungt/Downloads/Compressed/LoRa-based Monitoring System Project/gerber/loraTOP_PST.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  SQUARE     3.59990                     0.000 NO     DARK 
+  RECTANGLE  0.60000     x 0.60000      90.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  0.86360     x 1.70180       0.000 NO     DARK 
+  RECTANGLE  0.86360     x 1.70180      90.000 NO     DARK 
+  RECTANGLE  0.92000     x 0.97000       0.000 NO     DARK 
+  RECTANGLE  0.92000     x 0.97000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.42000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.42000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 3.00000       0.000 NO     DARK 
+  RECTANGLE  1.11760     x 0.55880      90.000 NO     DARK 
+  RECTANGLE  1.15000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  1.27000     x 0.63500       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 1.50000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 1.60000       0.000 NO     DARK 
+  RECTANGLE  1.50000     x 1.60000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 2.10000      90.000 NO     DARK 
+  RECTANGLE  1.95540     x 0.42080      90.000 NO     DARK 
+  RECTANGLE  2.06000     x 2.06000      90.000 NO     DARK 
+  RECTANGLE  2.25000     x 3.18000      90.000 NO     DARK 
+  RECTANGLE  2.60000     x 1.10000       0.000 NO     DARK 
+  RECTANGLE  2.80000     x 1.10000       0.000 NO     DARK 
+  RECTANGLE  2.89560     x 5.41020       0.000 NO     DARK 
+  RECTANGLE  3.00000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  3.30000     x 0.90000       0.000 NO     DARK 
+  RECTANGLE  4.00000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  4.00000     x 2.00000      90.000 NO     DARK 
+  RECTANGLE  8.50000     x 10.60000      0.000 NO     DARK 
+  PAD SHAPE  PS_R94_102_D200             0.000 NO     DARK 
+  PAD SHAPE  PS_R94_102_D200            90.000 NO     DARK 
+  PAD SHAPE  PS_R98_172_D200            90.000 NO     DARK 
+  PAD SHAPE  PS_R32_84_D250             90.000 NO     DARK 
+  PAD SHAPE  PS_R84_32_D250             90.000 NO     DARK 
+  PAD SHAPE  PS_R94_102_D200           180.000 NO     DARK 
+  PAD SHAPE  PS_R215_148_D250          180.000 NO     DARK 
+  PAD SHAPE  PS_R94_102_D200           270.000 NO     DARK 
+  PAD SHAPE  PS_R98_172_D200           270.000 NO     DARK 
+
+     loraTOP_PST created.
+
+
+================================================================
+     PROCESSING FILM < BOT_PST >
+     TO FILE < C:/Users/hungt/Downloads/Compressed/LoRa-based Monitoring System Project/gerber/loraBOT_PST.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  YES
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     loraBOT_PST created.
+
+
+================================================================
+     PROCESSING FILM < DRILL_DRAWING >
+     TO FILE < C:/Users/hungt/Downloads/Compressed/LoRa-based Monitoring System Project/gerber/loraDRILL_DRAWING.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (-120.5210 236.2200)
+           ... using undefined line width of 0.1270
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1270
+
+    WARNING: Arc segment with end points of
+	(482.92, -143.34) and (482.93 -145.58) converted to a line.
+	Its center location (98.00 -145.64) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(481.00, -145.41) and (480.98 -142.86) converted to a line.
+	Its center location (-484.66 -151.76) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(478.04, -140.18) and (477.14 -140.18) converted to a line.
+	Its center location (477.39 -290.18) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(477.14, -140.18) and (476.27 -140.18) converted to a line.
+	Its center location (477.38 -280.65) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(473.34, -143.09) and (473.33 -145.55) converted to a line.
+	Its center location (1098.87 -145.54) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(468.34, -140.18) and (467.52 -140.18) converted to a line.
+	Its center location (467.71 -255.37) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(467.52, -140.18) and (466.66 -140.18) converted to a line.
+	Its center location (467.73 -277.35) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(463.72, -142.99) and (463.70 -145.51) converted to a line.
+	Its center location (1178.68 -148.67) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(500.23, -136.11) and (500.24 -137.78) converted to a line.
+	Its center location (1288.70 -136.10) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(513.70, -141.29) and (513.69 -142.72) converted to a line.
+	Its center location (987.44 -144.09) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(513.69, -142.72) and (513.69 -144.43) converted to a line.
+	Its center location (1486.75 -145.62) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(539.52, -138.33) and (539.97 -138.33) converted to a line.
+	Its center location (540.41 -268.86) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(540.49, -138.33) and (541.09 -138.34) converted to a line.
+	Its center location (540.04 -259.66) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(541.09, -138.34) and (541.95 -138.35) converted to a line.
+	Its center location (540.16 -246.09) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(546.32, -143.42) and (546.32 -145.64) converted to a line.
+	Its center location (198.49 -144.18) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(544.44, -145.45) and (544.43 -143.33) converted to a line.
+	Its center location (-571.66 -153.12) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(536.76, -142.94) and (536.73 -145.45) converted to a line.
+	Its center location (1372.77 -151.59) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(534.81, -147.10) and (534.81 -145.50) converted to a line.
+	Its center location (989.39 -145.76) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(534.81, -145.50) and (534.81 -143.64) converted to a line.
+	Its center location (1346.36 -145.92) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(559.04, -144.35) and (557.68 -144.36) converted to a line.
+	Its center location (553.23 534.56) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(557.68, -144.36) and (556.06 -144.36) converted to a line.
+	Its center location (554.23 377.62) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(556.06, -144.36) and (554.26 -144.37) converted to a line.
+	Its center location (553.31 649.18) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(490.41, -140.11) and (489.89 -140.13) converted to a line.
+	Its center location (494.76 -262.68) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(549.73, -142.54) and (551.43 -142.54) converted to a line.
+	Its center location (551.20 104.64) is too large for
+	specified integer accuracy of 2 places.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.19990                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+
+     loraDRILL_DRAWING created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        loraTOP created with warnings
+        loraBOTTOM created.
+        loraTOP_SLK created with warnings
+        loraBOT_SLK created.
+        loraTOP_MSK created.
+        loraBOT_MSK created.
+        loraTOP_PST created.
+        loraBOT_PST created.
+        loraDRILL_DRAWING created with warnings
+
+ ARTWORK had warnings

@@ -1,0 +1,68 @@
+\t (00:00:03) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Mar 25 15:54:00 2026
+\t (00:00:03)         Host=HUGN User=hungt Pid=26140 CPUs=16
+\t (00:00:03) CmdLine= d:\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\hungt\Downloads\Compressed\LoRa-based Monitoring System Project\gerber\MACHLORA_02_03Jul25_02.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged MACHLORA_02_03Jul25_02
+\d (00:00:06) Design opened: C:/Users/hungt/Downloads/Compressed/LoRa-based Monitoring System Project/gerber/MACHLORA_02_03Jul25_02.brd
+\t (00:00:06) Grids are drawn 1.2700, 1.2700 apart for enhanced viewing.
+\i (00:00:06) trapsize 9303
+\i (00:00:06) trapsize 9576
+\t (00:00:06) Grids are drawn 1.2700, 1.2700 apart for enhanced viewing.
+\i (00:00:06) trapsize 9295
+\i (00:00:06) trapsize 9295
+\i (00:00:07) generaledit 
+\i (00:00:09) artwork 
+\i (00:00:11) setwindow form.film_control
+\i (00:00:11) FORM film_control select_all  
+\i (00:00:13) FORM film_control general_parameters  
+\i (00:00:19) FORM film_control filename_prefix lora 
+\i (00:00:19) FORM film_control ok  
+\i (00:00:19) setwindow pcb
+\i (00:00:19) generaledit 
+\i (00:00:24) artwork 
+\i (00:00:25) setwindow form.film_control
+\i (00:00:25) FORM film_control select_all  
+\i (00:00:43) FORM film_control create  
+\i (00:00:44) fillin yes 
+\t (00:00:44) Checking db records
+\t (00:00:44)     checking for orphans...
+\t (00:00:44)     Checked  35 percent
+\t (00:00:44)     Checked  70 percent
+\t (00:00:44)     Checked 100 percent
+\t (00:00:44) Done dbdoctor.
+\t (00:00:44) Starting Create artwork films...
+\w (00:00:45) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:00:46) Artwork generated with warnings.
+\i (00:00:48) setwindow pcb
+\i (00:00:48) setwindow text
+\i (00:00:48) close
+\i (00:00:49) setwindow form.film_control
+\i (00:00:49) FORM film_control cancel  
+\i (00:00:49) setwindow pcb
+\i (00:00:49) generaledit 
+\i (00:01:09) nctape_full 
+\w (00:01:09) WARNING(SPMHMF-272): NC Parameters file 'nc_param.txt' not found ... loading defaults.
+\i (00:01:19) setwindow form.nc_drill
+\i (00:01:19) FORM nc_drill optimize YES 
+\i (00:01:21) FORM nc_drill auto_tool_select YES 
+\i (00:01:23) FORM nc_drill repeat_codes NO 
+\i (00:01:31) FORM nc_drill parameters  
+\i (00:01:35) setwindow form.nc_parameters
+\i (00:01:35) FORM nc_parameters suppress_trail_zeroes YES 
+\i (00:01:36) FORM nc_parameters enhanced_format YES 
+\i (00:01:45) FORM nc_parameters done  
+\i (00:01:57) setwindow form.nc_drill
+\i (00:01:57) FORM nc_drill scale 1.0000 
+\i (00:01:57) FORM nc_drill execute  
+\t (00:01:57) Starting Generating NC Drill...
+\i (00:02:03) FORM nc_drill cancel  
+\i (00:02:03) setwindow pcb
+\i (00:02:03) generaledit 
+\i (00:02:28) exit 
+\e (00:02:28) Do you want to save the changes you made to MACHLORA_02_03Jul25_02.brd?
+\i (00:02:29) fillin no 
+   (00:02:29) Loading signal.cxt 
+\t (00:02:30)     Journal end - Wed Mar 25 15:56:27 2026
