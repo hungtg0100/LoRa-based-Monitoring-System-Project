@@ -1,0 +1,77 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[11/04/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\machnhietdo.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    ("Allegro Netlist Output Board File" ".\allegro\machnhietdo.brd"))
+  (Folder "Layout"
+    (File ".\allegro\machnhietdo.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\machnhietdo.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\machnhietdo.dsn")
+      (Path "Design Resources" ".\machnhietdo.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\machnhietdo.dsn" "SCHEMATIC1" "MACHTONG"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 605"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 623")
+        (Scroll "-41 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\HUNGT\DOWNLOADS\COMPRESSED\LORA-BASED MONITORING SYSTEM PROJECT\MACHNHIETDO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "420"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 623")
+        (Scroll "0 650")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\HUNGT\DOWNLOADS\COMPRESSED\LORA-BASED MONITORING SYSTEM PROJECT\MACHNHIETDO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MACHTONG")))
+  (MPSSessionName "hungt")
+  (PartMRUSelector))
