@@ -1,6 +1,6 @@
 #LORA BASED MONITORING SYSTEM PROJECT
 
-The project focuses on developing a low-power monitoring system capable of long-range data transmission using LoRa technology. The system utilizes an ESP32 microcontroller combined with an SX1278 (RA-02) LoRa module to collect and transmit data from various sensors, including a PT100 temperature sensor (via MAX31865 using SPI), an NTC thermistor (via ADC), a proximity sensor (isolated through PC817), and a 4–20 mA current signal converted to voltage. The power supply is designed using the LM2596 along with protection components to ensure stable operation. The entire system is implemented from schematic and PCB design using OrCAD to firmware development with Arduino IDE and real-world testing. This solution is suitable for industrial monitoring, smart agriculture, and IoT-based environmental monitoring applications.
+Designed and developed an ESP32-based data acquisition system to monitor soil temperature, soil moisture, NPK, GPS location, and battery voltage. Implemented LoRa wireless communication to transmit sensor data to a gateway for real-time visualization on a TFT display and web server, enabling remote monitoring, data logging, and configurable threshold-based alerts.
 
 <img width="1279" height="1017" alt="image" src="https://github.com/user-attachments/assets/d0483ab9-0aaa-4917-ad1e-579b6b87b100" />
 
